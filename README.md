@@ -26,7 +26,7 @@
 To run the quiz, execute the script using Python:
 
 ```sh
-python math_quiz.py
+python main.py
 ```
 
 Follow the on-screen instructions to select an arithmetic operation and answer the questions.
